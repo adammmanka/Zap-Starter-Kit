@@ -1,4 +1,4 @@
-![Zap.org Logo](../zaplogo.png "Zap.org")
+![Zap.org Logo](https://raw.githubusercontent.com/adammmanka/Zap-Starter-Kit/master/zaplogo.png "Zap.org")
 # :zap: Zap Starter Kit :zap:
 This repository is a starter kit for anyone who wishes to build layer 3 blockchain technologies using the Zap.org blockchain agnostic framework.
 
