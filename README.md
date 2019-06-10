@@ -3,7 +3,8 @@
 This repository is a starter kit for anyone who wishes to build layer 3 blockchain technologies using the Zap.org blockchain agnostic framework.
 
 
-##Linux
+## Linux
+
 Zap development will require a few different packages `git-core` `python` `build-essential` `curl` and a few others. We also use `nvm` in this tutorial to ensure no errors occur. 
 
 ```bash
